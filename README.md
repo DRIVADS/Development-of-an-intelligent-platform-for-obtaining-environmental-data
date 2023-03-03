@@ -1,1 +1,1 @@
-# Development-of-an-intelligent-platform-for-obtaining-environmental-data
+# Development-of-a-platform-to-obtain-environmental-data
